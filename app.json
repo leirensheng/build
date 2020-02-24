@@ -1,0 +1,19 @@
+{
+  "appKey": "gT3EaRt7TwUrS8Sc9X9YN7o5nrV4T1mM",
+  "appSecret": "qpwOilJAT3EuWrFzfssWKyrHs9mxUpSf",
+  "projectId": "32e8b6a6ca9478e7777a0f7ac78e1db7",
+  "id": 419,
+  "name": "App",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "http://gitlab.deepexi.top/leirensheng/abc.git",
+    "isPrivate": 0,
+    "username": "leirensheng",
+    "password": "fendou958043"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
